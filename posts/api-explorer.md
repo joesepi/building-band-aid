@@ -52,7 +52,7 @@ The **event** endpoint is the one created in the previous step based on our answ
 
 ### Our first endpoint: `event`
 
-![LoopBack API Explorer - product endpoint](/https://strongloop.com/blog-assets/2017/band-app/api-explorer-03.png)
+![LoopBack API Explorer - product endpoint](https://strongloop.com/blog-assets/2017/band-app/api-explorer-03.png)
 
 This is where the magic of LoopBack shines through for those just getting started. Based on the questions related to our model, we are given this full CRUD RESTful API. Let's take this moment to appreciate LoopBack: we haven't written any code yet. ✨MAGIC✨ (And some super-smart generator actions.)
 
