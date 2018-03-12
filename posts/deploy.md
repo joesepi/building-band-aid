@@ -194,5 +194,5 @@ At this point, we now have our application in the cloud. We can access it from a
 
 ## What's Next?
 
-If we go to our [Band App on Bluemix](https://band-app.bluemix.net), we will see the status output that is the default for a LoopBack app. And if we view the [LoopBack Explorer for our API](https://band-app.bluemix.net/explorer) (`/explorer`), we should see the familiar Swagger interface. (Again, these links point to *my deployed application*. Your URL will be different.) From here we can interact with our API endpoints just like we did in the previous episode. If we connected our application to a persisted datasource, we could start adding data through the explorer. This is something we will do in the next episode!
+If we go to our [Band App on IBM Cloud](https://band-app.bluemix.net), we will see the status output that is the default for a LoopBack app. And if we view the [LoopBack Explorer for our API](https://band-app.bluemix.net/explorer) (`/explorer`), we should see the familiar Swagger interface. (Again, these links point to *my deployed application*. Your URL will be different.) From here we can interact with our API endpoints just like we did in the previous episode. If we connected our application to a persisted datasource, we could start adding data through the explorer. This is something we will do in the [next episode](./data-source.md)!
 
